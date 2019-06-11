@@ -138,12 +138,12 @@ start command:     JAVA_OPTS="-agentpath:$PWD/.java-buildpack/open_jdk_jre/bin/j
 * Show the log file our the running app
 
 ```bash
-cf logs fortune-service
+cf logs workshop-fortune-service
 ```
 * Check the status of the application
 
 ```bash
-cf app fortune-service
+cf app workshop-fortune-service
 ```
 
 * Show the deployed application in the Pivotal Cloud Foundry web console:
