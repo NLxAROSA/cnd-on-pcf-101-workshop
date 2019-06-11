@@ -12,7 +12,7 @@ Add to your `pom.xml`:
         <dependency>
             <groupId>io.pivotal.spring.cloud</groupId>
             <artifactId>spring-cloud-services-dependencies</artifactId>
-            <version>2.1.0.RELEASE</version>
+            <version>2.1.4.RELEASE</version>
             <type>pom</type>
             <scope>import</scope>
         </dependency>
