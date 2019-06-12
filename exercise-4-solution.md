@@ -53,7 +53,7 @@ cf push
 ```
 
 * Prepare the UI application 
-  * Clone repo: [https://github.com/dcaron/workshop-greeting-ui.git](https://github.com/dcaron/workshop-greeting-ui.git) 
+  * Clone repo: [https://github.com/NLxAROSA/workshop-greeting-ui.git](https://github.com/NLxAROSA/workshop-greeting-ui.git) 
   * Build the project `./mvnw clean package`
 
 * Start a RabbitMQ service instance with name `workshop-cloud-bus`

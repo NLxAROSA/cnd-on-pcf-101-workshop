@@ -3,7 +3,7 @@
 USERSFILE=users.txt
 DEFAULT_PASSWORD=`cat password.txt`
 
-WORKSHOP_ORG=pcf-workshop
+WORKSHOP_ORG=rabo-pcf-workshop
 
 cf target -o ${WORKSHOP_ORG}
 
