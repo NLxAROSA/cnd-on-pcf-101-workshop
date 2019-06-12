@@ -27,7 +27,7 @@ cf push
 ``` 
 
 * Now it's time to deploy a UI in front of the Fortune Service. 
-  * Clone repo: [https://github.com/dcaron/workshop-greeting-ui.git](https://github.com/dcaron/workshop-greeting-ui.git)
+  * Clone repo: [https://github.com/NLxAROSA/workshop-greeting-ui.git](https://github.com/NLxAROSA/workshop-greeting-ui.git)
   * Build the project
 
 * Start a Cloud Bus (AMQP) service instance with name `workshop-cloud-bus`
