@@ -64,4 +64,4 @@ Open in the browser: [http://localhost:8080/](http://localhost:8080/)
 * Exercise 2: [start](exercise-2-start.md), [solution](exercise-2-solution.md)
 * Exercise 3: [start](exercise-3-start.md)
 
-For the solution of Exercise 3, proceed to the [next branch](https://github.com/NLxAROSA/workshop-fortune-service/tree/2-persistent-database-config-server).
+For the solution of Exercise 3, proceed to the [next branch](https://github.com/NLxAROSA/workshop-fortune-service/tree/2-persistent-database-config-server#exercises).
