@@ -64,3 +64,9 @@ Open in the browser: [http://localhost:8080/](http://localhost:8080/)
 * Exercise 2: [start](exercise-2-start.md), [solution](exercise-2-solution.md)
 * Exercise 3: [start](exercise-3-start.md), [solution](exercise-3-solution.md)
 * Exercise 4: [start](exercise-4-start.md), [solution](exercise-4-solution.md)
+
+## Tips
+
+* Stuck? Some exercises have hints to help you!
+* Stuck? Ask your neighbour to pair with you!
+* Stuck? Every exercise has a working solution in its own branch!
