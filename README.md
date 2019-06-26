@@ -66,3 +66,9 @@ Open in the browser: [http://localhost:8080/](http://localhost:8080/)
 * Exercise 4: [start](exercise-4-start.md)
 
 For the solution of Exercise 4, proceed to the [next branch](https://github.com/NLxAROSA/workshop-fortune-service/tree/3-service-registry-frontend#exercises).
+
+## Tips
+
+* Stuck? Some exercises have hints to help you!
+* Stuck? Ask your neighbour to pair with you!
+* Stuck? Every exercise has a working solution in its own branch!
