@@ -64,3 +64,9 @@ Open in the browser: [http://localhost:8080/](http://localhost:8080/)
 * Exercise 2: [start](exercise-2-start.md)
 
 For the solution of Exercise 2, proceed to the [next branch](https://github.com/NLxAROSA/workshop-fortune-service/tree/1-add-database#exercises).
+
+## Tips
+
+* Stuck? Some exercises have hints to help you!
+* Stuck? Ask your neighbour to pair with you!
+* Stuck? Every exercise has a working solution in its own branch!
