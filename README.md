@@ -29,7 +29,7 @@ cf -v
 Login to Cloud Foundry:
 
 ```bash
-cf login -a https://api.sys.lropcf.pushto.cf
+cf login -a <API url provided by instructor>
 Email> <provided user>
 Password> <provided password>
 ```
