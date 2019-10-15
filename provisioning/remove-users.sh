@@ -3,7 +3,7 @@
 USERSFILE=removeusers.txt
 WORKSHOP_ORG=pcf-workshop
 
-cf target -o ${WORKSHOP_ORG}
+cf target -o ${WORKSHOP_ORG} -s lars
 
 for user in `cat ${USERSFILE}`
 do
