@@ -26,7 +26,7 @@ Login credentials and access to the environment will be provided by the instruct
 cf -v
 ```
 
-Tip: if the environment you're running against has self-signed certificates and you are presented with an error, use the *--skip-ssl-validation* parameter.
+Tip: if the environment you're running against has self-signed certificates and you are presented with an error, use the ```*--skip-ssl-validation*``` parameter.
 
 Login to Cloud Foundry:
 
